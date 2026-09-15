@@ -1,0 +1,15 @@
+{
+  "name": "historia-meze-grill",
+  "private": true,
+  "version": "1.0.0",
+  "description": "HISTORIA MEZE GRILL — a cinematic, scroll-driven website for a Mediterranean charcoal grill in High Wycombe, UK",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.10"
+  }
+}
